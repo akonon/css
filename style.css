@@ -1,0 +1,19 @@
+/* Styles for testing submodules */
+
+body {
+    font-size: 14px;
+    font-family: sans-serif;
+    color: black;
+}
+
+h1 {
+    font-size: 28px;
+    color: brown;
+}
+
+a {
+    padding: 2px;
+    text-decoration: none;
+    background: lightyellow;
+    border-radius: 2px;
+}
